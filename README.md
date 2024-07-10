@@ -69,6 +69,9 @@ Some of mods featured here can be configured on Mod Menu.
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 * [YOSBR](https://modrinth.com/mod/yosbr)
 
+## Special Thanks
+* SkywardMC
+
 ## Disclaimer!
 By using this modpack, you agree to the following:
 * Due to nature of the modpack, some servers forbids the use of certain mods (e.g. Controlify). Therefore it is NOT recommended to play any of the community server with this modpack. Most ideal way is by playing singleplayer (or with LAN) or hosting your own community server with this modpack enabled.
