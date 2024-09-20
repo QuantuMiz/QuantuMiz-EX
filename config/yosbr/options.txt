@@ -1,11 +1,17 @@
 version:3955
 advancedItemTooltips:true
 enableVsync:false
+fullscreen:true
 guiScale:3
+joinedFirstServer:true
 maxFps:260
 operatorItemsTab:true
+onboardAccessibility:false
 resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default"]
+simulationDistance:5
+skipMultiplayerWarning:true
 telemetryOptInExtra:false
+tutorialStep:none
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
