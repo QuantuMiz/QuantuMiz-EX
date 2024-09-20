@@ -1,3 +1,5 @@
 {
-  "addQueryData": false
+  "addQueryData": false,
+  "convertToGameMessage":true,
+  "enableDebugLog":false
 }
