@@ -3,8 +3,8 @@
     {
         "bottom_right": [
             {
-                "text":"QuantuMiz EX for 1.21.3 \"Nanon\"",
-                "color":"#90ACFF",
+                "text":"QuantuMiz EX for 1.21.4 \"Nanon\"",
+                "color":"#008683",
                 "clickEvent":
                 {
                     "action":"open_url",
