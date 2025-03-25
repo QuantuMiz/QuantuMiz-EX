@@ -1,5 +1,8 @@
 > [!note]
-> **For all releases and issue trackers, for QuantuMiz series, please head to [main repository](https://github.com/QuantuMiz/QuantuMiz).**
+> ## Discontinuation Notice
+> **QuantuMiz EX is now part of QuantuMiz, and most QuantuMiz EX improvement has been merged to main QuantuMiz modpack. Please consider migrating to [QuantuMiz](https://modrinth.com/modpack/quantumiz) instead.**
+> 
+> QuantuMiz EX is now officially discontinued, no updates will be made further. Thank you to everyone for your support.
 
 <!-- TITLE -->
 <p align="center">
